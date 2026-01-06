@@ -1,8 +1,7 @@
 version: 1
-LastOpenTab: Credentials
-CurrentRegion: us-west-2
-CurrentBucketName: gladiator-dev
+LastOpenTab: Anywhere
 CurrentProfileName: default
+CurrentRegion: us-west-2
 UserProfiles: >+
   - Region: us-west-2
 
@@ -92,17 +91,17 @@ UserProfiles: >+
 
     BucketName: highstreet-dev
 
-    AnywhereFleetName: 
+    AnywhereFleetName: OmarFleet
 
-    AnywhereFleetId: 
+    AnywhereFleetId: fleet-df9064c7-c563-4276-b905-4826dd766875
 
-    AnywhereFleetLocation: 
+    AnywhereFleetLocation: custom-lobby-01
 
-    ComputeName: 
+    ComputeName: OmarPc
 
-    IpAddress: 
+    IpAddress: 100.111.137.81
 
-    WebSocketUrl: 
+    WebSocketUrl: wss://us-west-2.api.amazongamelift.com
 
     ContainerDeploymentInProgress: false
 
@@ -168,4 +167,5 @@ UserProfiles: >+
 
     DeploymentBuildFolderPath: 
 
+CurrentBucketName: highstreet-dev
 ...
